@@ -1,1 +1,1 @@
-# 03.SoftUni-QA-Fundamentals-Exam-May-2016
+# SoftUni-QA-Fundamentals-Exam-May-2016
